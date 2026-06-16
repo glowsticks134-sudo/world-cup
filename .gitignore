@@ -51,3 +51,7 @@ Thumbs.db
 # Bot secrets — never commit real tokens
 bot/.env
 bot/data/
+
+# Railway — exclude Node lockfiles so it doesn't detect as Node.js first
+# (railway.toml + nixpacks.toml force Python instead)
+pnpm-lock.yaml
