@@ -1,0 +1,197 @@
+Build a professional Discord bot called "World Cup Festival" designed for a Discord server with 1,000+ members.
+
+The bot should be modern, scalable, and use Discord.py (Python) with slash commands.
+
+FEATURES:
+
+⚽ World Cup Hub
+
+- /worldcup command that opens a beautiful embed dashboard.
+
+- Shows tournament information, countdown timer, and event status.
+
+- Uses buttons and dropdown menus.
+
+🏆 Prediction System
+
+- Members can predict match winners.
+
+- Store predictions in a database.
+
+- Award points for correct predictions.
+
+- Global leaderboard command.
+
+- /predict
+
+- /leaderboard
+
+- /mypoints
+
+🎉 Event Challenges
+
+- Daily World Cup challenges.
+
+- Examples:
+
+  • Predict today's winner
+
+  • Guess total goals
+
+  • Trivia questions
+
+- Automatic reward system.
+
+💰 Fan Coins Economy
+
+- Earn Fan Coins from:
+
+  • Predictions
+
+  • Trivia
+
+  • Activity
+
+  • Giveaways
+
+- Commands:
+
+  /balance
+
+  /shop
+
+  /daily
+
+  /transfer
+
+🎁 Giveaway System
+
+- Automated World Cup giveaways.
+
+- Reaction and button entry.
+
+- Winner picker.
+
+- Bonus entries for active members.
+
+📊 Live Event Stats
+
+- Server participation statistics.
+
+- Prediction participation.
+
+- Top fans leaderboard.
+
+- Most active channels.
+
+🎨 Beautiful Design
+
+- Green, gold, black, and white World Cup theme.
+
+- Custom emojis.
+
+- Professional embeds.
+
+- Animated loading messages.
+
+🤖 Moderation Features
+
+- Anti-spam
+
+- Anti-raid
+
+- Auto moderation
+
+- Logging system
+
+- Welcome messages
+
+🎯 Trivia Mode
+
+- Hundreds of football/soccer trivia questions.
+
+- Timed answering system.
+
+- Rewards Fan Coins.
+
+🔥 Hype Train Events
+
+- Randomly triggered server-wide events.
+
+- Members click buttons to participate.
+
+- Rewards coins and exclusive roles.
+
+👑 Event Roles
+
+- Fan
+
+- Super Fan
+
+- Predictor
+
+- World Cup Champion
+
+- Legend
+
+🏅 Achievement System
+
+- Unlock badges.
+
+- Collect trophies.
+
+- Progress tracking.
+
+📈 Database
+
+- Use SQLite.
+
+- Save all user progress permanently.
+
+🛠️ Admin Commands
+
+- /event start
+
+- /event stop
+
+- /event announcement
+
+- /coins add
+
+- /coins remove
+
+- /reset leaderboard
+
+📂 Project Requirements
+
+- Organized file structure.
+
+- Config file.
+
+- Environment variables.
+
+- Error handling.
+
+- Detailed comments.
+
+- Easy setup guide.
+
+- Production-ready code.
+
+BONUS FEATURES:
+
+- Interactive buttons.
+
+- Dropdown menus.
+
+- Leveling system integration.
+
+- Daily login streaks.
+
+- Match reminder notifications.
+
+- Fan of the Week system.
+
+- Beautiful startup console.
+
+Make the bot feel like a massive official World Cup celebration event that keeps members engaged for weeks and encourages competition between members.
