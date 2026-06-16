@@ -1,4 +1,8 @@
 import os
+from dotenv import load_dotenv
+
+# Load .env file if present (used when hosting outside Replit)
+load_dotenv()
 
 # Bot Configuration
 DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN", "")

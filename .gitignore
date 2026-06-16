@@ -47,3 +47,7 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Bot secrets — never commit real tokens
+bot/.env
+bot/data/
